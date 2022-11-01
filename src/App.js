@@ -1,5 +1,3 @@
-import "./App.css";
-
 // React Router
 import { Routes, Route, Link, useLocation } from "react-router-dom";
 
